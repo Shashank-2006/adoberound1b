@@ -50,4 +50,10 @@ This project extracts, analyzes, and ranks the most relevant sections from a col
 }
 
 ## HOW TO RUN
+We will build the docker image using the following command:
+```docker build --platform linux/amd64 -t mysolutionname:somerandomidentifier```
+After building the image, we will run the solution using the run command specified in the submitted instructions.
+```docker run --rm -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output -- network none mysolutionname:somerandomidentifie
+
+
 
