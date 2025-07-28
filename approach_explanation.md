@@ -48,3 +48,6 @@ This project extracts, analyzes, and ranks the most relevant sections from a col
     "requirements": ["Focus on hands-on skills", "Use latest industry trends"]
   }
 }
+
+## HOW TO RUN
+
